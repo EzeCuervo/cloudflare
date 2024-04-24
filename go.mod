@@ -3,13 +3,13 @@ module github.com/caddy-dns/cloudflare
 go 1.20
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.5
+	github.com/caddyserver/caddy/v2 v2.7.6
 	github.com/libdns/cloudflare v0.1.1
 )
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/caddyserver/certmagic v0.19.2 // indirect
+	github.com/caddyserver/certmagic v0.20.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
